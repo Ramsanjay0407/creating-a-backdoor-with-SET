@@ -64,9 +64,11 @@ It shows the following screen in which the option Google can be selected:
 SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
 ## OUTPUT
 
-<img width="1178" height="1335" alt="image" src="https://github.com/user-attachments/assets/5b3c1299-7cf7-4b32-9061-85195ceecc6b" />
+<img width="1178" height="1335" alt="sanjay@gmail com" src="https://github.com/user-attachments/assets/4aadd21a-10ed-4130-90bc-8100520955c5" />
 
+## OUTPUT
 
+<img width="939" height="299" alt="one" src="https://github.com/user-attachments/assets/0c5e5fdc-44c8-46eb-b018-1573fa31c519" />
 
 
 
